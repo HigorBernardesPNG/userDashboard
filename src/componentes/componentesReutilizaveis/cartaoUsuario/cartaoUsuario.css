@@ -1,0 +1,57 @@
+@import url(../coresReutilizaveis/coresReutilizaveis.css);
+
+.containerUsuario {
+
+    display: flex;
+    flex-direction: column;
+    background: var(--fundo-container);
+    padding: 40px;
+    border-radius: 16px;
+    align-items: center;
+    width: 28vw;
+    height: 88vh;
+    text-align: center;
+    gap: 6vh;
+
+}
+
+.containerUsuario__containerConjunto {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4vh;
+
+}
+
+.containerUsuario__containerConjunto h2 {
+
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+.containerUsuario__usuarioPicture {
+
+    border-radius: 999em !important;
+    width: 12vw;
+
+}
+
+.containerUsuario__containerConjunto__infosUser {
+
+    text-align: start;    
+
+}
+
+.containerUsuario__containerConjunto__infosUser p {
+
+    font-size: 24px;
+
+}
+
+.containerUsuario__logoHT {
+
+    width: 12vw;
+
+}

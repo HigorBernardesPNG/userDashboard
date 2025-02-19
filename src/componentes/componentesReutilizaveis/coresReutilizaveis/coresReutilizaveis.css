@@ -1,0 +1,11 @@
+:root {
+
+    --branco-padrao: rgb(210, 216, 224);
+    --rosa-padrao: rgb(215, 196, 181);
+    --azul-claro: rgb(124, 150, 158);
+    --cinza-claro: rgba(93, 101, 103);
+    --cinza-escuro: rgb(62, 75, 79);
+    --fundo-container: rgba(85, 104, 112, 0.226);
+
+
+}

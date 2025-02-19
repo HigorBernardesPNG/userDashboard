@@ -1,0 +1,53 @@
+@import url(../coresReutilizaveis/coresReutilizaveis.css);
+
+.containerClima {
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 2.5em;
+    
+
+}
+
+.containerClima__cidadeIcon {
+
+    display: flex;
+    background: var(--fundo-container);
+    padding: 4em;
+    border-radius: 12px;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.containerClima__cidadeIcon h2 {
+
+    font-size: 48px;
+    font-weight: bolder;
+
+}
+
+.containerClima__cidadeIcon__icon {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--fundo-container);
+    border-radius: 16px;
+    width: 12em;
+    height: 12em;
+
+}
+
+.container__iconNuvem {
+
+    /* padding: 16em; */
+    
+}
+
+.containerClima__detalhesClima p {
+
+    font-size: 32px;
+
+}

@@ -1,0 +1,23 @@
+@import url(../src/componentes/componentesReutilizaveis/coresReutilizaveis/coresReutilizaveis.css);
+
+body {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4em;
+  background-image: url(../public/fundoSite.png);
+  background-size: cover; /* Faz a imagem cobrir toda a tela */
+  background-position: center; /* Centraliza a imagem */
+  background-repeat: no-repeat; /* Evita repetições da imagem */
+  width: 100vw; /* 100% da largura da tela */
+  height: 100vh; /* 100% da altura da tela */
+
+
+}
+
+p, h1, h2, button {
+
+  color: var(--branco-padrao) !important;
+
+}

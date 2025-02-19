@@ -1,0 +1,36 @@
+@import url(../../componentesReutilizaveis/coresReutilizaveis/coresReutilizaveis.css);
+
+.containerIndex {
+
+    display: flex;
+    align-items: center;
+    gap: 8em;
+
+}
+
+.containerIndex_clima {
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background: var(--fundo-container);
+    padding: 40px;
+    width: 56vw;
+    height: 88vh;
+    border-radius: 16px;
+    justify-content: space-between;
+
+}
+
+.containerIndex__button {
+
+    
+
+}
+
+.containerIndex__button button {
+
+    width: 140px;
+    height: 48px;
+
+}
