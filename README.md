@@ -1,24 +1,31 @@
-# 📊 User Dashboard
+# 📊 User Dashboard – Projeto em React
 
-Este projeto consiste em um **painel (dashboard) de usuário** construído com foco em estrutura visual, responsividade e organização de arquivos. Ideal para simular interfaces administrativas ou áreas restritas de usuários em aplicações web.
+Este projeto é uma **interface de dashboard de usuário** desenvolvida com **React.js**, focada em consumo de API, uso de hooks (`useState`, `useEffect`) e renderização dinâmica de dados.
+
+Foi idealizado para treinar a criação de **componentes reutilizáveis**, organização do código front-end e integração com APIs externas, simulando um painel real de usuários com design moderno e responsivo.
 
 ---
 
 ## 🎯 Objetivo
 
-O objetivo deste projeto é servir como base para treinar **estruturação de interfaces**, organização de arquivos estáticos e uso de ícones, manifestos e imagens dentro de um layout funcional.
+Praticar conceitos fundamentais do React, como:
+
+- Componentização
+- Gerenciamento de estado
+- Efeitos colaterais com `useEffect`
+- Consumo de APIs com `fetch` ou `axios`
+- Manipulação de dados e renderização condicional
 
 ---
 
-## 🧰 Tecnologias Utilizadas
+## ⚙️ Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- react.js
-- js
-- Arquivos `.json` para manifestos e configurações
-- Ícones e imagens `.png`, `.ico`, `.svg` (favicon, logos, etc.)
-
+- React.js
+- JavaScript (ES6+)
+- HTML5 e CSS3
+- Axios (ou Fetch API)
+- React DOM
+- JSON Server (para mock de API, se aplicável)
 
 ---
 
