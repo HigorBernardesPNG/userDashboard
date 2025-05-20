@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/bbbb9856-aa3d-4277-ad6d-d46efe52605c)
+
+
 # 📊 User Dashboard – Projeto em React
 
 Este projeto é uma **interface de dashboard de usuário** desenvolvida com **React.js**, focada em consumo de API, uso de hooks (`useState`, `useEffect`) e renderização dinâmica de dados.
